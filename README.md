@@ -1,2 +1,9 @@
-# bank-management-system
-A simple Bank Management System built with Python and MySQL. Supports account creation, deposits, withdrawals, and balance checks.
+-------------------------------------------->Bank-Management<--------------------------------------
+
+Full user workflow: Register, Login. Debit. Credit. Pin Change. Statement
+
+Full admin workflow: Login. View Users. View Specific User. View Transactions. Transactions by Date
+
+Transactions are logged automatically
+
+Simple menus for usability
